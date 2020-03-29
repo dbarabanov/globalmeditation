@@ -9,7 +9,7 @@ i18next.init({
         "language": "Language",
         "purePeace": "Pure Peace. Pure Life.",
         "bigHeader": "WORLD WIDE MEDITATION</br>FOR THE BENEFIT OF THE PLANET",
-        "smallHeader": "Global prayer-meditation to harmonize the planet",
+        "smallHeader": "Global prayer-meditation to harmonize the world",
         "invitation": "Dear friends, We invite you for global meditation April 4th 2020.",
       }
     },
@@ -18,7 +18,7 @@ i18next.init({
         "language": "Язык",
         "purePeace": "Чистый Мир. Чистая Жизнь.",
         "bigHeader": "ВСЕМИРНАЯ МЕДИТАЦИЯ</br>ВО БЛАГО ПЛАНЕТЫ",
-        "smallHeader": "Международная молитва-медитация для гармонизации процессов на планете.",
+        "smallHeader": "Международная молитва-медитация для гармонизации процессов в мире.",
         "invitation": "Друзья, приглашаем вас на международную молитву-медитацию 4 апреля 2020г в 22:45 EST</br>(5 апреля в 05:45 Москва).",
       }
     }
